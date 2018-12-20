@@ -53,9 +53,9 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="valign" val="base"/>
     </tool>
   </lib>
-  <lib desc="file#C:\Users\irfan\Documents\GitHub\CSE332L\SOFTWARE LAB\ALU\16-bit ALU with equality and overflow check.circ" name="7"/>
-  <lib desc="file#C:\Users\irfan\Documents\GitHub\CSE332L\SOFTWARE LAB\Register File\16-bit Register File.circ" name="8"/>
-  <lib desc="file#C:\Users\irfan\Documents\GitHub\CSE332L\SOFTWARE LAB\Control Unit\Control Unit.circ" name="9"/>
+  <lib desc="file#..\ALU\16-bit ALU with equality and overflow check.circ" name="7"/>
+  <lib desc="file#..\Register File\16-bit Register File.circ" name="8"/>
+  <lib desc="file#..\Control Unit\Control Unit.circ" name="9"/>
   <main name="main"/>
   <options>
     <a name="gateUndefined" val="ignore"/>
